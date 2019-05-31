@@ -1,0 +1,2 @@
+# xinitrc
+My xinitrc file.
